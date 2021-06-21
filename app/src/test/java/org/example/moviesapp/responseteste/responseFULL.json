@@ -1,0 +1,427 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "first_air_date": "2021-06-09",
+      "vote_average": 8.1,
+      "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant”or help fix the timeline and stop a greater threat.",
+      "id": 84958,
+      "backdrop_path": "/Afp8OhiO0Ajb3NPoCBvfu2pqaeO.jpg",
+      "vote_count": 3018,
+      "name": "Loki",
+      "poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "original_name": "Loki",
+      "origin_country": [
+        "US"
+      ],
+      "popularity": 7218.609,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg",
+      "first_air_date": "2021-06-17",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "id": 104157,
+      "name": "Katla",
+      "origin_country": [
+        "IS"
+      ],
+      "original_language": "is",
+      "original_name": "Katla",
+      "overview": "A year after a subglacial volcano erupts, mysterious elements from prehistoric times emerge from the melting ice, bringing unforeseen consequences.",
+      "poster_path": "/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "popularity": 50.168,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/PGSknIQZ96l7MG8nyQ76MuYnfY.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "original_language": "en",
+      "original_title": "Luca",
+      "poster_path": "/2mmE7zDDuxj7Mn1l0EDk3yUAUe3.jpg",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 9,
+      "overview": "Two young boys experience an unforgettable Italian summer filled with gelato, pasta and endless scooter rides. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+      "release_date": "2021-06-17",
+      "title": "Luca",
+      "id": 508943,
+      "adult": false,
+      "popularity": 682.042,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "original_language": "en",
+      "original_title": "Godzilla vs. Kong",
+      "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 6015,
+      "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+      "release_date": "2021-03-24",
+      "title": "Godzilla vs. Kong",
+      "id": 399566,
+      "adult": false,
+      "popularity": 1251.99,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/rBFEE11zW2mmnZ4T9jAiSozKR9y.jpg",
+      "genre_ids": [
+        10765,
+        18,
+        10759
+      ],
+      "original_name": "Black Summer",
+      "origin_country": [
+        "US"
+      ],
+      "name": "Black Summer",
+      "poster_path": "/gx36rMh4CyZAZLVpypkNBhPsFT5.jpg",
+      "vote_average": 7.0,
+      "id": 88052,
+      "vote_count": 235,
+      "overview": "In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones.",
+      "first_air_date": "2019-04-11",
+      "original_language": "en",
+      "popularity": 114.615,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "The Conjuring: The Devil Made Me Do It",
+      "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 2194,
+      "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "release_date": "2021-05-25",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "id": 423108,
+      "adult": false,
+      "popularity": 2907.842,
+      "media_type": "movie"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fV3gp5MWfqpXZrsICHaCy9csKo8.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 666624,
+      "original_language": "it",
+      "original_title": "Security",
+      "overview": "After the assault of a young woman in their seaside town, a security expert and his family get caught in a powerful riptide of secrets and lies.",
+      "poster_path": "/msTpZMyvd16KhuS7YZiIkdvPgXf.jpg",
+      "release_date": "2021-06-07",
+      "title": "Security",
+      "video": false,
+      "vote_average": 5.2,
+      "vote_count": 15,
+      "popularity": 13.378,
+      "media_type": "movie"
+    },
+    {
+      "video": false,
+      "title": "Nobody",
+      "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+      "release_date": "2021-03-26",
+      "id": 615457,
+      "adult": false,
+      "backdrop_path": "/83Hp44xD24OndqfaJbXFQqD25EX.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53,
+        35
+      ],
+      "vote_count": 2082,
+      "original_language": "en",
+      "original_title": "Nobody",
+      "poster_path": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "vote_average": 8.4,
+      "popularity": 907.765,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/8ChCpCYxh9YXusmHwcE9YzP0TSG.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "original_language": "en",
+      "original_title": "Cruella",
+      "poster_path": "/rTh4K5uw9HypmpGslcKd4QfHl93.jpg",
+      "video": false,
+      "vote_average": 8.6,
+      "vote_count": 2843,
+      "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+      "release_date": "2021-05-26",
+      "title": "Cruella",
+      "id": 337404,
+      "adult": false,
+      "popularity": 3060.648,
+      "media_type": "movie"
+    },
+    {
+      "first_air_date": "2021-06-17",
+      "backdrop_path": "/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg",
+      "name": "Record of Ragnarok",
+      "genre_ids": [
+        16,
+        10759,
+        10765
+      ],
+      "id": 114868,
+      "original_language": "ja",
+      "poster_path": "/kTs2WNZOukpWdNhoRlH94pSJ3xf.jpg",
+      "vote_count": 0,
+      "original_name": "終末のワルキューレ",
+      "origin_country": [
+        "JP"
+      ],
+      "overview": "Before eradicating humankind from the world, the gods give them one last chance to prove themselves worthy of survival. Let the Ragnarok battles begin.",
+      "vote_average": 0.0,
+      "popularity": 85.173,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/wjQXZTlFM3PVEUmKf1sUajjygqT.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "original_language": "en",
+      "original_title": "Infinite",
+      "poster_path": "/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "overview": "Evan McCauley has skills he never learned and memories of places he has never visited. Self-medicated and on the brink of a mental breakdown, a secret group that call themselves “Infinites” come to his rescue, revealing that his memories are real.",
+      "release_date": "2021-09-08",
+      "title": "Infinite",
+      "id": 581726,
+      "adult": false,
+      "popularity": 855.476,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/1qOA3kMtQO8bjnW8M2smjA8tp10.jpg",
+      "genre_ids": [
+        80,
+        9648,
+        18
+      ],
+      "original_name": "Élite",
+      "origin_country": [
+        "ES"
+      ],
+      "name": "Elite",
+      "poster_path": "/3NTAbAiao4JLzFQw6YxP1YZppM8.jpg",
+      "vote_average": 8.2,
+      "id": 76669,
+      "vote_count": 6599,
+      "overview": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+      "first_air_date": "2018-10-05",
+      "original_language": "es",
+      "popularity": 898.895,
+      "media_type": "tv"
+    },
+    {
+      "original_language": "fr",
+      "poster_path": "/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg",
+      "id": 96677,
+      "vote_count": 934,
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "vote_average": 7.9,
+      "name": "Lupin",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "first_air_date": "2021-01-08",
+      "backdrop_path": "/dVHeJXUzHJJGadB2wvpuAn6fsdN.jpg",
+      "original_name": "Lupin",
+      "origin_country": [
+        "FR"
+      ],
+      "popularity": 508.088,
+      "media_type": "tv"
+    },
+    {
+      "id": 581644,
+      "adult": false,
+      "backdrop_path": "/6FzuNrApEc71aJ3CwwkpadbNled.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80
+      ],
+      "original_language": "en",
+      "original_title": "The Misfits",
+      "poster_path": "/dPOyYnCkRbWAEem85N3VFpQODf5.jpg",
+      "vote_count": 14,
+      "video": false,
+      "vote_average": 4.3,
+      "title": "The Misfits",
+      "overview": "After being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.",
+      "release_date": "2021-06-10",
+      "popularity": 93.055,
+      "media_type": "movie"
+    },
+    {
+      "first_air_date": "2021-06-17",
+      "backdrop_path": "/5b5ZZGECl4FLDBKn3zJ6w6GBPRg.jpg",
+      "name": "iCarly",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 119243,
+      "original_language": "en",
+      "poster_path": "/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg",
+      "vote_count": 14,
+      "original_name": "iCarly",
+      "origin_country": [
+        "US"
+      ],
+      "overview": "Ten years after signing off of one of TV's most iconic shows, Carly, Spencer, and Freddie are back, navigating the next chapter of their lives, facing the uncertainties of life in their twenties.",
+      "vote_average": 9.3,
+      "popularity": 125.887,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/4kIRrW1AlHP5Idne8CPHeQt8nR5.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        14
+      ],
+      "original_language": "en",
+      "original_title": "Wish Dragon",
+      "poster_path": "/lnPf6hzANL6pVQTxUlsNYSuhT5l.jpg",
+      "video": false,
+      "vote_average": 8.3,
+      "vote_count": 122,
+      "overview": "Determined teen Din is longing to reconnect with his childhood best friend when he meets a wish-granting dragon who shows him the magic of possibilities.",
+      "release_date": "2021-01-15",
+      "title": "Wish Dragon",
+      "id": 550205,
+      "adult": false,
+      "popularity": 127.156,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg",
+      "genre_ids": [
+        27
+      ],
+      "original_language": "en",
+      "original_title": "The Unholy",
+      "poster_path": "/bShgiEQoPnWdw4LBrYT5u18JF34.jpg",
+      "video": false,
+      "vote_average": 7.0,
+      "vote_count": 962,
+      "overview": "Alice, a young hearing-impaired girl who, after a supposed visitation from the Virgin Mary, is inexplicably able to hear, speak and heal the sick. As word spreads and people from near and far flock to witness her miracles, a disgraced journalist hoping to revive his career visits the small New England town to investigate. When terrifying events begin to happen all around, he starts to question if these phenomena are the works of the Virgin Mary or something much more sinister.",
+      "release_date": "2021-03-31",
+      "id": 632357,
+      "title": "The Unholy",
+      "adult": false,
+      "popularity": 1026.613,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/uEJuqp08dH6IQwZJGASlPZOXqKu.jpg",
+      "genre_ids": [
+        18,
+        10402,
+        10749
+      ],
+      "original_language": "en",
+      "original_title": "In the Heights",
+      "poster_path": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "vote_average": 7.5,
+      "vote_count": 75,
+      "overview": "The story of Usnavi, a bodega owner who has mixed feelings about closing his store and retiring to the Dominican Republic or staying in Washington Heights.",
+      "release_date": "2021-06-10",
+      "video": false,
+      "id": 467909,
+      "adult": false,
+      "popularity": 309.721,
+      "media_type": "movie"
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aIJGEXTd3WvjELrbht6rZVETH2n.jpg",
+      "genre_ids": [
+        18,
+        35,
+        10751
+      ],
+      "id": 607259,
+      "original_language": "en",
+      "original_title": "Fatherhood",
+      "overview": "A widowed new dad copes with doubts, fears, heartache and dirty diapers as he sets out to raise his daughter on his own.",
+      "poster_path": "/pR2fzm82fl0giommpo310LBOMbV.jpg",
+      "release_date": "2021-06-18",
+      "title": "Fatherhood",
+      "video": false,
+      "vote_average": 9.0,
+      "vote_count": 1,
+      "popularity": 61.597,
+      "media_type": "movie"
+    },
+    {
+      "id": 126525,
+      "genre_ids": [
+        18
+      ],
+      "original_name": "Elite Histórias Breves: Carla Samuel",
+      "name": "Elite Short Stories: Carla Samuel",
+      "poster_path": "/onPkMMtzcJs9A6vKljNBa3ujI8g.jpg",
+      "vote_average": 9.1,
+      "overview": "Samuel attempts a big, romantic gesture at the airport in order to persuade Carla not to board her flight to London.",
+      "vote_count": 27,
+      "backdrop_path": "/lucFMV4qxvpsti5xnN6paUxCbAn.jpg",
+      "original_language": "es",
+      "origin_country": [],
+      "first_air_date": "2021-06-17",
+      "popularity": 288.849,
+      "media_type": "tv"
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}

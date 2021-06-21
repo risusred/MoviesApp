@@ -1,0 +1,93 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "first_air_date": "2021-06-09",
+      "vote_average": 8.1,
+      "overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant”or help fix the timeline and stop a greater threat.",
+      "id": 84958,
+      "backdrop_path": "/Afp8OhiO0Ajb3NPoCBvfu2pqaeO.jpg",
+      "vote_count": 3018,
+      "name": "Loki",
+      "poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "original_name": "Loki",
+      "origin_country": [
+        "US"
+      ],
+      "popularity": 7218.609,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/mF25LlPgSek0Wgv6NUKSlzLLQBQ.jpg",
+      "first_air_date": "2021-06-17",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "id": 104157,
+      "name": "Katla",
+      "origin_country": [
+        "IS"
+      ],
+      "original_language": "is",
+      "original_name": "Katla",
+      "overview": "A year after a subglacial volcano erupts, mysterious elements from prehistoric times emerge from the melting ice, bringing unforeseen consequences.",
+      "poster_path": "/vRPDQP51i1Z2RuoIQaxVSj7Pd5R.jpg",
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "popularity": 50.168,
+      "media_type": "tv"
+    },
+    {
+      "backdrop_path": "/PGSknIQZ96l7MG8nyQ76MuYnfY.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        14
+      ],
+      "original_language": "en",
+      "original_title": "Luca",
+      "poster_path": "/2mmE7zDDuxj7Mn1l0EDk3yUAUe3.jpg",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 9,
+      "overview": "Two young boys experience an unforgettable Italian summer filled with gelato, pasta and endless scooter rides. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+      "release_date": "2021-06-17",
+      "title": "Luca",
+      "id": 508943,
+      "adult": false,
+      "popularity": 682.042,
+      "media_type": "movie"
+    },
+    {
+      "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "original_language": "en",
+      "original_title": "Godzilla vs. Kong",
+      "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 6015,
+      "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+      "release_date": "2021-03-24",
+      "title": "Godzilla vs. Kong",
+      "id": 399566,
+      "adult": false,
+      "popularity": 1251.99,
+      "media_type": "movie"
+    }
+  ],
+  "total_pages": 1000,
+  "total_results": 20000
+}

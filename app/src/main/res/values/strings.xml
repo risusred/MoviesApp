@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="error_no_internet_connection">There is not Internet connection</string>
+    <string name="explanation_msg">Click Btn Top Rated or Swipe the Recycler: Fetch "Top Rated films"
+        \nLClick Btn Top Rated: delete All from Room
+    \nEnter words in the Edit Text to "Search for films than contain your search"
+    and then press Btn Search</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="loading_ui_state_">Loading…</string>
+    <string name="error_loading_ui_state_">Error loading</string>
+
+    <string name="original_title">Title</string>
+    <string name="genre_ids">Genre</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="language_original">Language Original</string>
+    <string name="show_movies_top_rated">Show Movies Top rated</string>
+    <string name="enter_a_name_to_search">Enter a name to search</string>
+    <string name="search">Search</string>
+</resources>
